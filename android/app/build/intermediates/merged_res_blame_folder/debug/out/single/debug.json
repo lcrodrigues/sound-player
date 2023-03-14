@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.sound.app-merged_res-22:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.sound.app-main-24:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.sound.app-main-24:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.sound.app-main-24:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/raw_sound1.mp3.flat",
+        "source": "com.sound.app-main-24:/raw/sound1.mp3"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/raw_sound2.mp3.flat",
+        "source": "com.sound.app-main-24:/raw/sound2.mp3"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/raw_sound3.mp3.flat",
+        "source": "com.sound.app-main-24:/raw/sound3.mp3"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.sound.app-main-24:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sound.app-main-24:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.sound.app-main-24:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.sound.app-main-24:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.sound.app-main-24:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.sound.app-main-24:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.sound.app-main-24:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sound.app-merged_res-22:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sound.app-main-24:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]
